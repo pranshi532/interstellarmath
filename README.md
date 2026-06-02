@@ -11,3 +11,6 @@ I built this project to test that hypothesis empirically. By pitting prime numbe
 🌩️ Stochastic Noise Simulation: Models deep-space channel degradation using independent Bernoulli trials (bit-flip probability p).
 📊 Original Resilience Metrics: Calculates custom information-theoretic scores, including Pattern Preservation Score (PPS) and Recognition Probability (RP).
 🖥️ Zero-Dependency Architecture: Runs entirely in the terminal. No pip install, no external packages, no bloat.
+
+How to use this project:
+This is a terminal based python application so you have to download the files to run the project , after downloading just write python main.py on the terminal and see the project running :))
